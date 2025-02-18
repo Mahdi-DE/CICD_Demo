@@ -1,0 +1,9 @@
+variable "prefix" {
+
+}
+
+variable "location" {
+
+}
+
+
